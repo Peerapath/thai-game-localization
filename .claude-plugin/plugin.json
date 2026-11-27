@@ -1,0 +1,9 @@
+{
+  "name": "thai-game-localization",
+  "version": "1.1.0",
+  "description": "Thai game localization: rendering checks, fonts, ZWSP line breaking, validated translation pipeline, Ren'Py/Unity/GameMaker notes, and mod release without redistributing game text.",
+  "author": {
+    "name": "Benz PeerapathK"
+  },
+  "license": "MIT"
+}

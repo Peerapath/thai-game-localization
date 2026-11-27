@@ -1,0 +1,13 @@
+{
+  "name": "thai-game-localization",
+  "owner": {
+    "name": "Benz PeerapathK"
+  },
+  "plugins": [
+    {
+      "name": "thai-game-localization",
+      "source": "./",
+      "description": "Thai game localization: rendering checks, fonts, ZWSP line breaking, validated translation pipeline, Ren'Py/Unity/GameMaker notes, and mod release without redistributing game text."
+    }
+  ]
+}
