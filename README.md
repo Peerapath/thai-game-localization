@@ -20,14 +20,14 @@
 - macOS / Linux: `~/.claude/skills/thai-game-localization`
 
 ```powershell
-git clone https://github.com/<your-account>/thai-game-localization.git
+git clone https://github.com/Peerapath/thai-game-localization.git
 Copy-Item -Recurse thai-game-localization\skills\thai-game-localization "$env:USERPROFILE\.claude\skills\"
 ```
 
 **แบบปลั๊กอิน (Claude Code):** repo นี้มีไฟล์ marketplace อยู่แล้ว
 
 ```
-/plugin marketplace add <your-account>/thai-game-localization
+/plugin marketplace add Peerapath/thai-game-localization
 /plugin install thai-game-localization@thai-game-localization
 ```
 
